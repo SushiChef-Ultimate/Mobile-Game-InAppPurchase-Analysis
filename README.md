@@ -1,15 +1,15 @@
-Helle viewers!
+Hello viewers!
 
-Kaggle Dataset: https://www.kaggle.com/datasets/pratyushpuri/mobile-game-in-app-purchases-dataset-2025Links
+Kaggle Dataset: Mobile Game In-App Purchases Dataset 2025
 
-This is an exploration of mobile game in-app purchase data. The goal here is to find which demographics of people are more or less likely to purchase microtransactions, whether that be gender, country, etc.
+This project explores mobile game in-app purchase data. The goal is to identify which demographics are more or less likely to purchase microtransactions—whether by gender, country, or other factors.
 
-We are also going to find what generes of mobile games encourage the most spending, and which genre's encourage spending the fastest.
+We also look at which genres of mobile games drive the highest spending, and which ones encourage players to start spending the fastest.
 
-Each record represents a transaction made by a person, and contains fields such as gender, country, game genre, when they made their first purchase, and more.
+Each record represents a transaction made by a player and includes details such as gender, country, game genre, time to first purchase, and more.
 
-I think there is both strong potential for harm and good. As for benefits, this data can be used to find the game genres that appeal to people the most, and give the people "more of what they want". However, there is also extreme potential for these insights to be used to optimize predatory transaction models for these mobile games, which has been a consistent problem historically.
+I believe this dataset has strong potential for both good and harm. On the positive side, the insights can help identify the game genres people enjoy most and allow developers to create more of what players want. However, there’s also a serious risk that these insights could be misused to further optimize predatory monetization models—a problem that has plagued the mobile gaming industry historically.
 
-The final goal is the find which combination of game genre and demographic appeal will maximize participation in microtransactions from the playerbase.
+The ultimate goal is to determine which combination of game genre and demographic appeal will maximize participation in microtransactions among the player base.
 
-Data insights can be found in the "data-insights.txt" file, as well as sushanth-pf.com
+Data insights can be found in the "data-insights.txt" file, as well as at sushanth-pf.com.
