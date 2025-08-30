@@ -44,3 +44,11 @@ Afghanistan and Bangladesh would be best.
 
 If attempting to take advantage of overlooked markets, appealing to non-binary individuals and/or deploying in countries like the
 Netherlands and France might prove fruitful, although the usual most successful game genres would still be optimal in this scenario.
+
+
+
+Limitations:
+
+Since understanding what aspects of a mobile game may appeal to different demographics, a seperate report may have to be developed
+in order to understand how to appeal genders, countries, etc. That being said a visualization like that combined with this analysis
+could reveal a reliable path towards optimal revenue in the mobile gaming market.
