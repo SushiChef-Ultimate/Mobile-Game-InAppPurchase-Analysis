@@ -49,6 +49,6 @@ Netherlands and France might prove fruitful, although the usual most successful 
 
 Limitations:
 
-Since understanding what aspects of a mobile game may appeal to different demographics, a seperate report may have to be developed
+Since understanding what aspects of a mobile game may appeal to different demographics, a separate report may have to be developed
 in order to understand how to appeal genders, countries, etc. That being said a visualization like that combined with this analysis
 could reveal a reliable path towards optimal revenue in the mobile gaming market.
